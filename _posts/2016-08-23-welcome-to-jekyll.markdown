@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sangeun Kum"
 date:   2016-08-23 20:02:08 +0900
 categories: jekyll update
 ---
