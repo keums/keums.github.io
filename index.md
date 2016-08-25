@@ -6,13 +6,15 @@ title: "about Keums"
 <hr />
 <img src="/images/keums.png"  width="600" height="1200" >
 
-<p>I am an <b>Ph.D student</b> at <b><span style="color:#6aa84f"> Music and Audio Computing Lab, KAIST.</span></b><br>
+<p>I am a <b>Ph.D student</b> at <span style="color:#3399cc"> <b>Music and Audio Computing Lab, KAIST</b>.</span><br>
 
-<p>My research interests includes
+<p>My <span style="color:#3399cc"><b>research interests</b></span> includes
 <ul>
+
   <li>Music information retrieval: Melody extraction & transcription</li>
   <li>Machine learning </li>
   <li>Singing voice detection & analysis </li>  
+
 </ul>
 </p>
 
