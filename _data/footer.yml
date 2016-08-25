@@ -1,4 +1,9 @@
 # Footer navigation links
+- title: HOME
+  url: /
 
-- title:
-  url:
+- title: C.V.
+  url: /CV
+
+- title: PROJECT
+  url: /PROJECT_main
