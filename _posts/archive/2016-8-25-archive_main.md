@@ -1,6 +1,6 @@
 ---
 layout: media
-title: My project
+title: My archive
 permalink:
 categories:
 modified:
@@ -12,7 +12,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.project%}
+{% for post in site.categories.archive%}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div><!-- /.tiles --><div style="clear:both"></div>
