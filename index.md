@@ -9,7 +9,7 @@ title: "about Keums"
 <p>I am a <b>Ph.D student</b> at <a href = "http://mac.kaist.ac.kr/index.html" target="_blank"><span style="color:#3399cc"> <b>Music and Audio Computing Lab, KAIST</b>.</span></a>
 <br>
 
-<p>My <b>research interests </b>includes 
+<p>My <b>research interests </b>include
 <ul>
 
   <li>Music information retrieval: Melody extraction & transcription</li>
