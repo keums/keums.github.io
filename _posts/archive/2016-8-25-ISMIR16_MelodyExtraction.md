@@ -14,7 +14,8 @@ image:
 <span style="color:#666666"> <b>Sangeun Kum</b>, Changheun Oh, Juhan Nam</span><br>
 <span style="color:#6aa84f"> 17th International Society for Music Information Retrieval Conference, New York, USA, 2016</span><br>
 |<a href = "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/119_Paper.pdf" target="_blank">PDF</a>|
-|<a href = "http://www.slideshare.net/SangeunKum/ismir-2016melody-extraction" target="_blank">slide</a>|
+|<a href = "http://www.slideshare.net/SangeunKum/ismir-2016melody-extraction" target="_blank">Slide</a>|
+|<a href = "https://github.com/keums/MelodyExtraction_MCDNN" target="_blank">GitHub</a>|
 
 <hr>
 
@@ -86,7 +87,7 @@ We selected an opera song from the ADC2004 dataset, because this song has dynami
 
 
 <ul>
-<li>A Left one is from the Single Column DNN with a pitch resolution of 4 and trained only with the RWC dataset.</li>
+<li>A left one is from the Single Column DNN with a pitch resolution of 4 and trained only with the RWC dataset.</li>
 <li>A middle one is from the same SCDNN but trained with additional data. Comparing the first models, the additional songs help tracking the vibrato.But the second model still misses the whole excursion.</li>
 <li>A right one is from the 1-2-4 Multi-column DNN. With the additional resolutions, the Multi-column DNN makes further improvement, tracking the pitch contours quite precisely.</li>
 
