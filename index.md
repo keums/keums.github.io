@@ -6,9 +6,10 @@ title: "about Keums"
 <hr />
 <img src="/images/keums.png"  width="600" height="300" >
 
-<p>I am a <b>Ph.D student</b> at <span style="color:#3399cc"> <b>Music and Audio Computing Lab, KAIST</b>.</span><br>
+<p>I am a <b>Ph.D student</b> at <a href = "http://mac.kaist.ac.kr/index.html" target="_blank"><span style="color:#3399cc"> <b>Music and Audio Computing Lab, KAIST</b>.</span></a>
+<br>
 
-<p>My <span style="color:#3399cc"><b>research interests</b></span> includes
+<p>My <b>research interests </b>includes 
 <ul>
 
   <li>Music information retrieval: Melody extraction & transcription</li>
