@@ -62,10 +62,15 @@ This is our architecture of a proposed methods.
 <li> And each DNN columns predict pitch labels with different resolutions. The lowest resolution is 1 semitone. The next one has higher resolutions by two times. Pitch predictions with lower resolutions are actually expanded by replicating each element so that the output sizes are the same for the all columns. </li>
 <li>
 Given the outputs of the columns, we compute the combined posterior likelihood. Mathematically, we multiplied all probabilities together, which corresponds to summing the log-likelihood of the predictions.
-<img src="/images/archive/ISMIR2016/sum.png"  width="400" > <br>
+
+<br><br>
+<p align="center"><img src="/images/archive/ISMIR2016/sum.png"  width="400" ></p> <br>
 </li>
 </ul>
 </p>
+<p>
+Here we verify it by illustrating three examples from different models.
+We selected an opera song from the ADC2004 dataset, because this song has dynamic pitch motions such as high pitch and strong vibrato.</p>
 
 <div style="width:33%; float:left;">
 <img src="/images/archive/ISMIR2016/result_1.png"  width="300"  >
@@ -78,9 +83,6 @@ Given the outputs of the columns, we compute the combined posterior likelihood. 
 </div>
 <div style="clear:both"></div>
 
-<p>
-Here we verify it by illustrating three examples from different models.
-We selected an opera song from the ADC2004 dataset, because this song has dynamic pitch motions such as high pitch and strong vibrato.</p>
 
 
 <ul>
