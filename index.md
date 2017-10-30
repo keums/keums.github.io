@@ -13,8 +13,9 @@ title: "about Keums"
 <ul>
 
   <li>Music information retrieval: Melody extraction & transcription</li>
-  <li>Deep learning </li>
-  <li>Singing voice detection/separation & analysis </li>  
+  <li>Deep learning</li>
+  <li>Singing voice detection and separation</li>  
+  <li>Singing voice analysis</li>  
 
 </ul>
 </p>
