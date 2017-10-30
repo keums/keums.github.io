@@ -6,7 +6,7 @@ modified:
 excerpt: 2017 데이터야 놀자 발표 자료 
 image:
   feature:
-  teaser: /archive/ISMIR2016/ismir16_slide.png
+  teaser: /archive/datayanolja.png
   thumb:
 ---
 <p> 2017.10.13. 데이터야 놀자 발표자료 입니다</p>
