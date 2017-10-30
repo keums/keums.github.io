@@ -12,9 +12,9 @@ title: "about Keums"
 <p>My <b>research interests </b>include
 <ul>
   <li>Music information retrieval: Melody extraction & transcription</li>
-  <li>Deep learning</li>
   <li>Singing voice detection & separation</li>  
-  <li>Singing voice analysis</li>  
+  <li>Singing voice analysis</li>
+  <li>Deep learning</li>
 </ul>
 </p>
 
