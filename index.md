@@ -13,8 +13,8 @@ title: "about Keums"
 <ul>
 
   <li>Music information retrieval: Melody extraction & transcription</li>
-  <li>Machine learning </li>
-  <li>Singing voice detection & analysis </li>  
+  <li>Deep learning </li>
+  <li>Singing voice detection/separation & analysis </li>  
 
 </ul>
 </p>
