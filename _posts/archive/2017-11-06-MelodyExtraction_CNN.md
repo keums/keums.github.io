@@ -6,7 +6,7 @@ modified:
 excerpt: Classification-Based Singing Melody Extraction Using Deep Convolutional Neural Networks
 image:
   feature:
-  teaser: archive/appsci/melodyExtraction.pdf
+  teaser: archive/appsci/melodyExtraction.png
   thumb:
 ---
 <hr>
@@ -18,7 +18,7 @@ image:
 <hr>
 
 <div style="width:500px; border:1px solid black;">
-<img src="/images/archive/archive/appsci/melodyExtraction.pdf"  width="500"  >
+<img src="/images/archive/archive/appsci/melodyExtraction.png"  width="500"  >
 </div>
 
 <p>
