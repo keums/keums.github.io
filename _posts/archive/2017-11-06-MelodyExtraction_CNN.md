@@ -1,6 +1,6 @@
 ---
 layout: media
-title: APPSCI_Journal Paper(submitted)
+title: APPSCI_Journal Paper (submitted)
 categories: archive
 modified:
 excerpt: Classification-Based Singing Melody Extraction Using Deep Convolutional Neural Networks
@@ -18,6 +18,6 @@ image:
 <hr>
 
 <div style="width:500px; border:1px solid black;">
-<img src="/images/archive/archive/appsci/melodyExtraction.png"  width="500"  >
+<img src="/images/archive/archive/appsci/melodyExtraction.png"  width="500">
 </div>
 
