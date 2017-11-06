@@ -32,3 +32,9 @@ image:
 <li>The SVAD is trained to determine if a long segment of mel-spectrogram contains a singing voice. This often produces voice false alarm errors around the boundary of singing segments. We reduced them by exploiting the output of the SPE. 
 <p>
 Finally, we evaluate the proposed melody extraction model on several public datasets. The results show that the proposed model is comparable to state-of-the-art algorithms.</p>
+  
+<h3> Demo </h3>
+<div style="width:600px; border:1px solid black;">
+<img src="/images/archive/appsci/demo_ex1.png"  width="600">
+</div>
+
