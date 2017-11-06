@@ -33,10 +33,13 @@ image:
 <p>
 Finally, we evaluate the proposed melody extraction model on several public datasets. The results show that the proposed model is comparable to state-of-the-art algorithms.</p>
   
-<h3> Demo </h3> |<a href = "http://mac-bach.kaist.ac.kr/keums/melodyExtraction/" target="_blank">link</a>|
+<h3> Demo </h3> 
+|<a href = "http://mac-bach.kaist.ac.kr/keums/melodyExtraction/" target="_blank">Link</a>|
+
 <div style="width:600px; border:1px solid black;">
 <img src="/images/archive/appsci/demo_ex1.png"  width="600">
 </div>
-<li> We collected a list of 114 singers from https://kpopvocalanalysis.net/. We obtained five audio files per singer and filtered out songs with duet, chorus singers or rap. As a result, we collected 469 songs.</li>
+<li> We target to annotate contemporary Korean pop music, often called "K-pop" </li>
+<li> We collected a list of 114 singers from <a href = "https://kpopvocalanalysis.net/" target="_blank">kpopvocalanalysis.net</a>. We obtained five audio files per singer and filtered out songs with duet, chorus singers or rap. As a result, we collected 469 songs.</li>
 <li> Using a singing voice detector, we trimmed audio files into 10-sec long segments with voice, thereby obtaining 6787 examples.</li>
 
