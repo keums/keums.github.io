@@ -6,7 +6,7 @@ modified:
 excerpt: Classification-Based Singing Melody Extraction Using Deep Convolutional Neural Networks
 image:
   feature:
-  teaser: archive/appsci/melodyExtraction.png
+  teaser: /archive/appsci/melodyExtraction.png
   thumb:
 ---
 <hr>
