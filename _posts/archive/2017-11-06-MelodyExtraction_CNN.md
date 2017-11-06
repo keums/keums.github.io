@@ -18,6 +18,6 @@ image:
 <hr>
 
 <div style="width:500px; border:1px solid black;">
-<img src="/images/archive/archive/appsci/melodyExtraction.png"  width="500">
+<img src="/images/archive/archive/appsci/melodyExtraction.png",  width="500">
 </div>
 
