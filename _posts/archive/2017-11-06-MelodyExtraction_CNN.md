@@ -1,6 +1,6 @@
 ---
 layout: media
-title: ISMIR16_Paper
+title: APPSCI_Journal Paper(submitted)
 categories: archive
 modified:
 excerpt: Classification-Based Singing Melody Extraction Using Deep Convolutional Neural Networks
