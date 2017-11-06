@@ -17,7 +17,7 @@ image:
 |<a href = "http://mac-bach.kaist.ac.kr/keums/melodyExtraction/" target="_blank">Demo</a>|
 <hr>
 
-<div style="width:500px; border:1px solid black;">
-<img src="/images/archive/appsci/melodyExtraction.png"  width="500">
+<div style="width:600px; border:1px solid black;">
+<img src="/images/archive/appsci/melodyExtraction.png"  width="600">
 </div>
 
