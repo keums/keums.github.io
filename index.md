@@ -4,7 +4,7 @@ permalink: /
 title: "about Keums"
 ---
 <hr />
-<img src="/images/keums.png"  width="600" height="300" >
+<img src="/images/keumss.png" width="600" height="300" >
 
 <p>I am a <b>Ph.D Candidate</b> at <a href = "http://mac.kaist.ac.kr/index.html" target="_blank"><span style="color:#3399cc"> <b>Music and Audio Computing Lab, KAIST</b>.</span></a>
 <br>
