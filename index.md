@@ -23,4 +23,4 @@ title: "about Keums"
   |<a href = "https://www.linkedin.com/in/sangeun-kum-34b097127?trk=nav_responsive_tab_profile_pic" target="_blank">LinkedIn</a>|
   |<a href = "https://www.researchgate.net/profile/Sangeun_Kum" target="_blank">ResearchGate</a>|
   |<a href = "https://scholar.google.co.kr/citations?user=26hFwmwAAAAJ&hl=ko&authuser=1" target="_blank">Google Scholar</a>|
-  |<a href = "https://github.com/keums" target="_blank">Github</a>|
+  |<a href = "https://github.com/keums" target="_blank">GitHub</a>|
